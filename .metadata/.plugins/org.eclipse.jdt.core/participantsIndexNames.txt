@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2490134119.index
+/struts-tutorial-finder/src/main/java
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/692029958.index
+/struts-study/src/main/resources
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1491173173.index
+/struts-tutorial-finder/src/main/java
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/710683438.index
+/struts-tinymce/src/main/java
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2066639412.index
+/struts-study/src/main/java
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2011657043.index
+/struts-study/src/main/java
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/808474637.index
+/struts-tutorial-finder/src/main/java
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3086731957.index
+/struts-study/src/main/resources
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1179520336.index
+/struts-tinymce/src/main/java
+/home/fmreis/eclipseProjects/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1116895305.index
+/struts-tutorial-finder/src/main/java

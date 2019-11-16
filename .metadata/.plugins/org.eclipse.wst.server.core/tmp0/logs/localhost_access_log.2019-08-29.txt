@@ -1,0 +1,13 @@
+127.0.0.1 - - [29/Aug/2019:20:32:04 +0100] "GET /SimpleServletProject HTTP/1.1" 302 -
+127.0.0.1 - - [29/Aug/2019:20:32:04 +0100] "GET /SimpleServletProject/ HTTP/1.1" 200 167
+127.0.0.1 - - [29/Aug/2019:20:32:38 +0100] "GET /ServletXML HTTP/1.1" 404 1093
+127.0.0.1 - - [29/Aug/2019:20:32:53 +0100] "GET /SimpleServletProject/ HTTP/1.1" 304 -
+127.0.0.1 - - [29/Aug/2019:20:33:00 +0100] "GET /SimpleServletProject/ServletXML HTTP/1.1" 200 111
+127.0.0.1 - - [29/Aug/2019:20:38:15 +0100] "GET /SimpleServletProject/ServletXML HTTP/1.1" 500 1758
+127.0.0.1 - - [29/Aug/2019:20:38:16 +0100] "GET /SimpleServletProject/ServletXML HTTP/1.1" 500 1758
+127.0.0.1 - - [29/Aug/2019:20:38:27 +0100] "GET /SimpleServletProject/ServletXML HTTP/1.1" 500 1758
+127.0.0.1 - - [29/Aug/2019:20:38:28 +0100] "GET /favicon.ico HTTP/1.1" 404 1094
+127.0.0.1 - - [29/Aug/2019:20:38:43 +0100] "GET /favicon.ico HTTP/1.1" 404 1094
+127.0.0.1 - - [29/Aug/2019:20:38:50 +0100] "GET /favicon.ico HTTP/1.1" 404 1094
+127.0.0.1 - - [29/Aug/2019:20:38:53 +0100] "GET /SimpleServletProject/ServletXML HTTP/1.1" 200 83
+127.0.0.1 - - [29/Aug/2019:20:38:53 +0100] "GET /favicon.ico HTTP/1.1" 404 1094

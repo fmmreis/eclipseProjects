@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.javabrains.service.TutorialFinderService"/>
+    <fullyQualifiedTypeName name="com.opensymphony.xwork2.Action"/>
+    <fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+    <fullyQualifiedTypeName name="org.apache.commons.lang.StringUtils"/>
+    <fullyQualifiedTypeName name="io.javabrains.service.LoginService"/>
+    <fullyQualifiedTypeName name="com.opensymphony.xwork2.ModelDriven"/>
+    <fullyQualifiedTypeName name="io.javabrains.model.User"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+</qualifiedTypeNameHistroy>

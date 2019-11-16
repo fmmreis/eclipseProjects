@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE struts PUBLIC 
+    "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" 
+    "http://struts.apache.org/dtds/struts-2.1.dtd">
+
+<struts>
+	<package name="login" namespace="/" extends="struts-default">
+		<action name="loginAction"
+			class="io.javabrains.action.LoginAction">
+			<result name="success">searchForm.jsp</result>
+			<result name="login">login.jsp</result>
+			<result name="input">login.jsp</result>
+		</action>
+
+		<action name="saveAction"
+			class="io.javabrains.action.SaveAction">
+			<result name="success">editDescription.jsp</result>
+			<result name="failure">xxx.jsp</result>
+		</action>
+
+	</package>
+</struts>
