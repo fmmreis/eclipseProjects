@@ -195,16 +195,6 @@
   resolved "https://registry.yarnpkg.com/@ephox/wrap-jsverify/-/wrap-jsverify-2.0.1.tgz#8984b292eeab3bd570eab773541650d257793d4d"
   integrity sha512-RSSsUFBV9uVUPzmCRvYXZBEZhVahYXs/j0JVgCy0CrbS98nV60BeYd97QB37sr05Lv7haLWzKf9XAcVAO7M8Ng==
 
-"@ephox/wrap-promise-polyfill@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@ephox/wrap-promise-polyfill/-/wrap-promise-polyfill-2.2.0.tgz#ea11e0a88320b5096dfed6249e169621c9853f7d"
-  integrity sha512-bTvZa0VEBPtCbcl05lYDjMre1WruTRXReCo8Yp2JrOnkf2PK8jgzBrOYPplbjgXvh6ToPqK2wiaeeBApYYgUSQ==
-
-"@ephox/wrap-sizzle@^4.0.0":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@ephox/wrap-sizzle/-/wrap-sizzle-4.0.1.tgz#84193c357de60a47fa5d65ec181801bc5b8d576c"
-  integrity sha512-zztEqdwnHGsYNbMj9IsA6oOjluHy41Zpw69kBcc/qrEOv0CR1K6/2ojCKG0VYd36lYd2RaDjxyCPqO7X+KPXlA==
-
 "@evocateur/libnpmaccess@^3.1.2":
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/@evocateur/libnpmaccess/-/libnpmaccess-3.1.2.tgz#ecf7f6ce6b004e9f942b098d92200be4a4b1c845"
@@ -7986,9 +7976,9 @@ qs@6.7.0, qs@^6.4.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 querystring-es3@^0.2.0:
   version "0.2.1"
